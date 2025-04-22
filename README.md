@@ -1,5 +1,10 @@
 # Fritzing
 
+precompiled package using this script in a sandbox:
+[https://github.com/FREEWING-JP/Build-Fritzing-1.0.0-Windows-script](https://github.com/FREEWING-JP/Build-Fritzing-1.0.0-Windows-script)
+
+--------------
+
 |Branch|Badge|
 |------|-----|
 |master|[![Build Status](https://travis-ci.org/fritzing/fritzing-app.svg?branch=master)](https://travis-ci.org/fritzing/fritzing-app)|
